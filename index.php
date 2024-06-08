@@ -50,7 +50,7 @@
             <div class="text-logo">
               <a href="index.html">
                 <div class="logo-symbol">S</div>
-                <div class="logo-text">Nazmus <span>Sakib</span></div>
+                <div class="logo-text">Nazmus <span>Sakib-2</span></div>
               </a>
             </div>
             <!-- /Text Logo -->
